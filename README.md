@@ -1,1 +1,1 @@
-This program is meant to help convert small snippets of disasssembly code output by the Netwide Disassembler (ndisasm.exe) to assembly code suitable for the Netwide Assembler (nasm.exe). It assumes the disassembled code is from 16-bit realmdode executables.
+This program is meant to help convert small snippets of disasssembly code output by the Netwide Disassembler (ndisasm.exe) to assembly code suitable for the Netwide Assembler (nasm.exe). It assumes the disassembled code is from 16-bit realmode executables.
